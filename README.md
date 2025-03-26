@@ -20,30 +20,29 @@ The **To-Do List App** is a simple task management application that allows users
 - **MongoDB & Mongoose**: Stores tasks and manages database operations.  
 
 ## Installation and Setup  
-### 1️⃣ Clone the Repository  
+###  Clone the Repository  
 ```sh
 git clone https://github.com/your-username/todo-list-app.git
 cd todo-list-app
 ```
 
-### 2️⃣ Install Dependencies  
+### 1️⃣ Install Dependencies  
 ```sh
 npm install
 ```
 
-### 3️⃣ Start MongoDB  
+### 2️⃣Start MongoDB  
 Ensure MongoDB is running locally or provide a MongoDB Atlas connection string.  
 ```sh
 mongod
 ```
-Or connect via MongoDB Atlas.
 
-### 4️⃣ Run the Server  
+### 3️⃣ Run the Server  
 ```sh
 node index.js
 ```
 
-### 5️⃣ Open the App  
+### 4️⃣ Open the App  
 - Open `index.html` in a browser to access the To-Do List UI.  
 - Add and manage tasks directly from the interface.  
 
